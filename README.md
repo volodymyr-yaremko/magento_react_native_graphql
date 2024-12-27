@@ -67,7 +67,7 @@ yarn ios
 
 ## 🙋‍ Contribute [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
-If you find a bug, or if you have an idea for this app, please file an issue [here](https://github.com/sanjeevyadavit/magento_react_native_graphql/issues). We really appreciate feedback and inputs!
+If you find a bug, or if you have an idea for this app, please file an issue [here](https://github.com/sanjeevyadavit/magento_react_native_graphql/issues). We really appreciate feedback and inputs!!!
 
 More information on contributing, head over to our [contribution guidelines](CONTRIBUTING.md). 
 
